@@ -4,15 +4,14 @@
 
 const categories = [
   "All Projects",
+  "Social Media Design",
+  "Logo Design",
+  "UI/UX Design",
   "Thumbnail Design",
   "Resume Design",
-  "Logo Design",
   "Flyer Design",
-  "Brochure Design",
-  "UI/UX Design",
-  "Business Card Design",
-  "Social Media Design",
   "Banner & Advertising Design",
+  "Business Card Design",
 ];
 
 export default categories;

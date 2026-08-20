@@ -41,11 +41,12 @@ const siteInfo = {
 
   // PLACEHOLDER — add real links or leave blank to hide from the footer/contact.
   social: {
-    instagram: "", // e.g. "https://instagram.com/ahbabli"
-    behance: "", // e.g. "https://behance.net/ahbabli"
-    dribbble: "", // e.g. "https://dribbble.com/ahbabli"
-    linkedin: "", // e.g. "https://linkedin.com/in/ahbabli"
+    instagram: "https://instagram.com/ahbabli",
+    behance: "https://behance.net/ahbabli",
+    dribbble: "https://dribbble.com/ahbabli",
+    linkedin: "https://linkedin.com/in/ahmed-albabli-260a93266",
   },
+
 
   profileImage: "/images/profile.webp",
 };

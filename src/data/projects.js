@@ -41,6 +41,18 @@ const projects = [
     isPlaceholder: true,
   },
   {
+    id: 19,
+    title: "Fitness App",
+    category: "UI/UX Design",
+    thumbnail: "/images/imgs/logos/19.jpg",
+    images: ["/images/imgs/logos/19.jpg"],
+    description:
+      "A modern dark-themed fitness app UI featuring an engaging welcome screen, simple login flow, personalized daily workouts, activity tracking, step counts, and weekly progress monitoring.",
+    featured: true,
+    isPlaceholder: true,
+  },
+  
+  {
     id: 3,
     title: "Ice Cream Social",
     category: "Social Media Design",
@@ -97,6 +109,17 @@ const projects = [
     isPlaceholder: true,
   },
   {
+    id: 20,
+    title: "Taleeb",
+    category: "UI/UX Design",
+    thumbnail: "/images/imgs/logos/20.jpg",
+    images: ["/images/imgs/logos/20.jpg"],
+    description:
+      "A clean mobile UI for Taleeb, a student platform featuring secure login, daily schedules, exam countdowns, semester progress, announcements, and a searchable class feed.",
+    featured: true,
+    isPlaceholder: true,
+  },
+  {
     id: 9,
     title: "Smart phone",
     category: "Social Media Design",
@@ -119,6 +142,39 @@ const projects = [
     isPlaceholder: true,
   },
   {
+    id: 11,
+    title: "Thumbnail Design",
+    category: "Thumbnail Design",
+    thumbnail: "/images/imgs/logos/11.jpg",
+    images: ["/images/imgs/logos/11.jpg"],
+    description:
+      "A collection of eye-catching YouTube thumbnails covering business, language learning, sports, and social media topics, using expressive subjects, bold typography, and strong visual contrast.",
+    featured: true,
+    isPlaceholder: true,
+  },
+  {
+    id: 12,
+    title: "Thumbnail Design",
+    category: "Thumbnail Design",
+    thumbnail: "/images/imgs/logos/12.jpg",
+    images: ["/images/imgs/logos/12.jpg"],
+    description:
+      "A collection of Arabic YouTube thumbnails covering entertainment, storytelling, money, and pest-control topics, using expressive characters, bold typography, vibrant colors, and strong visual contrast.",
+    featured: true,
+    isPlaceholder: true,
+  },
+  {
+    id: 14,
+    title: "flowers store",
+    category: "Logo Design",
+    thumbnail: "/images/imgs/logos/14.jpg",
+    images: ["/images/imgs/logos/14.jpg"],
+    description:
+      "A bilingual logo design for Zahret Ishbiliyah, featuring a clean gift-box icon and elegant Arabic and English typography, presented in multiple color variations for flexible brand use.",
+    featured: true,
+    isPlaceholder: true,
+  },
+  {
     id: 13,
     title: "ATS résumé",
     category: "Resume Design",
@@ -126,6 +182,50 @@ const projects = [
     images: ["/images/imgs/logos/13.jpg"],
     description:
       "Two professional résumé designs for a senior marketing specialist, featuring clear information hierarchy, structured sections, clean typography, and modern layouts suitable for job applications.",
+    featured: true,
+    isPlaceholder: true,
+  },
+  {
+    id: 15,
+    title: "Wild Pixel",
+    category: "Logo Design",
+    thumbnail: "/images/imgs/logos/15.jpg",
+    images: ["/images/imgs/logos/15.jpg"],
+    description:
+      "A modern logo for Wild Pixel, featuring a clean “WP” monogram, vibrant gradient colors, and bold typography that reflects the agency’s creative and digital identity.",
+    featured: true,
+    isPlaceholder: true,
+  },
+  {
+    id: 17,
+    title: "Sombra Chicken",
+    category: "UI/UX Design",
+    thumbnail: "/images/imgs/logos/17.jpg",
+    images: ["/images/imgs/logos/17.jpg"],
+    description:
+      "A modern restaurant website design for Sombra Chicken, featuring an appetizing menu, easy phone ordering, delivery information, and a bold orange-and-green visual identity.",
+    featured: true,
+    isPlaceholder: true,
+  },
+  {
+    id: 18,
+    title: "E-commerce Website",
+    category: "UI/UX Design",
+    thumbnail: "/images/imgs/logos/18.jpg",
+    images: ["/images/imgs/logos/18.jpg"],
+    description:
+      "A modern mobile e-commerce website design featuring product categories, search and price filters, product cards, and customer benefits such as free shipping, returns, and 24/7 support.",
+    featured: true,
+    isPlaceholder: true,
+  },
+  {
+    id: 16,
+    title: "Karam Coffee",
+    category: "Logo Design",
+    thumbnail: "/images/imgs/logos/16.jpg",
+    images: ["/images/imgs/logos/16.jpg"],
+    description:
+      "A minimalist logo for Karam Coffee, combining a simple cup icon with warm brown and beige tones to create a cozy and inviting café identity.",
     featured: true,
     isPlaceholder: true,
   },
